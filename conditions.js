@@ -42,7 +42,7 @@
 
 // Nullish coeliscing operator in JavaScript
 
-let age=null;
+// let age=null;
 
-const result=age ?? "No age given"
-console.log(result)
+// const result=age ?? "No age given"
+// console.log(result)
