@@ -55,13 +55,13 @@
 // let newText=text.split(" ");
 // console.log(newText)
 
-const person={
-    name:"Newson Rai",
-    address:"Kathmandu",
+// const person={
+    // name:"Newson Rai",
+    // address:"Kathmandu",
     
-}
+// }
 // Object.freeze(person)
 person.age=24
 // console.log(Object.keys(person))
 // console.log(Object.values(person))
-console.log(person)
+// console.log(person)
