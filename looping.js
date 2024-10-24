@@ -54,3 +54,13 @@
 // var add=function(){
 //     console.log(1+1)
 // }//op-->name us not afunction
+
+// 3.for of loop is used to loop array
+// syntax-->for(let item of iterable){
+//     statement
+// }
+
+var days=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+for (let day of days){
+    console.log(day)
+}
